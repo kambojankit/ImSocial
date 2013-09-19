@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/startService" android:titleCondensed="Start" android:title="Start Service"></item>
+    <item android:id="@+id/stopService" android:titleCondensed="Stop" android:title="Stop Service"></item>
+    <item android:id="@+id/prefsActivity" android:titleCondensed="Prefs" android:title="Preferences"></item>
+    <item android:id="@+id/timeline" android:titleCondensed="Timel.." android:title="Timeline"></item>
+    
+
+</menu>

@@ -1,0 +1,19 @@
+/Users/ankit/Workspace/Android/ImSocial/bin/ImSocial.ap_ \
+ : /Users/ankit/Workspace/Android/ImSocial/res/drawable-hdpi/ic_launcher.png \
+/Users/ankit/Workspace/Android/ImSocial/res/drawable-mdpi/ic_launcher.png \
+/Users/ankit/Workspace/Android/ImSocial/res/drawable-xhdpi/ic_launcher.png \
+/Users/ankit/Workspace/Android/ImSocial/res/drawable-xxhdpi/ic_launcher.png \
+/Users/ankit/Workspace/Android/ImSocial/res/layout/activity_status.xml \
+/Users/ankit/Workspace/Android/ImSocial/res/menu/status.xml \
+/Users/ankit/Workspace/Android/ImSocial/res/values/dimens.xml \
+/Users/ankit/Workspace/Android/ImSocial/res/values/strings.xml \
+/Users/ankit/Workspace/Android/ImSocial/res/values/styles.xml \
+/Users/ankit/Workspace/Android/ImSocial/res/values-sw600dp/dimens.xml \
+/Users/ankit/Workspace/Android/ImSocial/res/values-sw720dp-land/dimens.xml \
+/Users/ankit/Workspace/Android/ImSocial/res/values-v11/styles.xml \
+/Users/ankit/Workspace/Android/ImSocial/res/values-v14/styles.xml \
+/Users/ankit/Workspace/Android/ImSocial/bin/res/drawable-hdpi/ic_launcher.png \
+/Users/ankit/Workspace/Android/ImSocial/bin/res/drawable-mdpi/ic_launcher.png \
+/Users/ankit/Workspace/Android/ImSocial/bin/res/drawable-xhdpi/ic_launcher.png \
+/Users/ankit/Workspace/Android/ImSocial/bin/res/drawable-xxhdpi/ic_launcher.png \
+/Users/ankit/Workspace/Android/ImSocial/bin/AndroidManifest.xml \
